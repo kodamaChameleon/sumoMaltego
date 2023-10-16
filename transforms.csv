@@ -1,0 +1,4 @@
+Owner,Author,Disclaimer,Description,Version,Name,UIName,URL,entityName,oAuthSettingId,transformSettingIDs,seedIDs
+Kodama Chameleon,Kodama <contact@kodamaChameleon.com>,,Retrieves escort ads from sumosearc.ch using phone number,0.1,phonetoads,Retreive escort ads,https://transforms.acme.com/run/phonetoads,maltego.PhoneNumber,,,SumoSearch
+Kodama Chameleon,Kodama <contact@kodamaChameleon.com>,,Retrieves escort ad images from sumosearc.ch using phone number,0.1,phonetoimages,Retreive escort ad image links,https://transforms.acme.com/run/phonetoimages,maltego.PhoneNumber,,,SumoSearch
+Kodama Chameleon,Kodama <contact@kodamaChameleon.com>,,Scrape url for phone numbers,0.1,urltophone,URL to phone number(s),https://transforms.acme.com/run/urltophone,maltego.URL,,,SumoSearch
